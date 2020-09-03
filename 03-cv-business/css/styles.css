@@ -166,6 +166,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .intro .social-icons > li > a:hover:after{ -webkit-transform: scale(1); transform: scale(1); }
 
+
 /* ---------------------------------
 4. ABOUT SECTION
 --------------------------------- */
@@ -184,7 +185,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 5. EXPERIENCE SECTION
 --------------------------------- */
 
-.experience-section{ background: #FAF5FC; }
+.experience-section{ background: #fff; }
 
 .experience .list > li{ display: block; position: relative; margin-bottom: 10px; }
 
